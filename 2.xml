@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<departamento>
+    <nombredepto> ventas </nombredepto>
+    <director>juan rodriguez</director>
+    <empleados>
+        <empleado id="1">
+            <nombre>pedro</nombre>
+            <apellido>Fernandez</apellido>
+        </empleado>
+        <empleado id="2">
+            <nombre>Jacinto</nombre>
+            <apellido>Benavente</apellido>
+        </empleado>
+    </empleados>
+    <nirvana></nirvana>
+</departamento>
