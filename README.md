@@ -12,18 +12,17 @@ puts markdown.to_html
 + Las __keys__ son cadenas de caracteres (strings).
 + Los __values__ son los valores de estos.
 Estos deberias verse de la siguiente manera
-```{“key”:“value”,“key”:“value”,“key”:“value”.}```
+```{“key”:“value”,“key”:“value”,“key”:“value”.}```  
 ### Strings
 los strings pueden ser.
 1. Número 
 2. Booleano 
-3. Nulo 
+3. Nulo   
 
-se puede encontrar mas información en las siguientes [Páginas](https://www.hostinger.es/tutoriales/que-es-json).
+se puede encontrar mas información en las siguientes [Páginas](https://www.hostinger.es/tutoriales/que-es-json).  
 
-[Un ejemplo de estos archivos es ](/xml-json.json)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDIUkki5H74Bw1pAhmLke_Di1abS03q1JRw&s" width="100"
-heigth="100">
+[Un ejemplo de estos archivos es ](/xml-json.json)  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDIUkki5H74Bw1pAhmLke_Di1abS03q1JRw&s" width="100" heigth="100">  
 __tabla__
 | Codigo |        |
 | --- | --- |
