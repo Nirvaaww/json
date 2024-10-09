@@ -26,7 +26,9 @@ se puede encontrar mas información en las siguientes [Páginas](https://www.hos
  imagen  
  
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDIUkki5H74Bw1pAhmLke_Di1abS03q1JRw&s" width="100" heigth="100">  
-__tabla__
+
+__tabla__  
+
 | Codigo |        |
 | --- | --- |
 | json | codigo en json |
