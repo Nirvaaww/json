@@ -8,12 +8,12 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
-__Sintaxis del json__
+### Sintaxis del json
 + Las __keys__ son cadenas de caracteres (strings).
 + Los __values__ son los valores de estos.
 Estos deberias verse de la siguiente manera
 ```{“key”:“value”,“key”:“value”,“key”:“value”.}```
-__Strings__
+### Strings
 los strings pueden ser.
 1. Número 
 2. Booleano 
