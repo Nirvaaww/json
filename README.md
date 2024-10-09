@@ -21,4 +21,10 @@ los strings pueden ser.
 
 se puede encontrar mas información en las siguientes [Páginas](https://www.hostinger.es/tutoriales/que-es-json).
 
-
+[Un ejemplo de estos archivos es ](json/xml-json.json)
+![Una imagen json](https://png.pngtree.com/png-clipart/20190630/original/pngtree-json-file-document-icon-png-image_4166451.jpg)
+__tabla__
+| Codigo |        |
+| --- | --- |
+| json | codigo en json |
+| Java Script | codigo en java script |
