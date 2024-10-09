@@ -22,6 +22,8 @@ los strings pueden ser.
 se puede encontrar mas información en las siguientes [Páginas](https://www.hostinger.es/tutoriales/que-es-json).  
 
 [Un ejemplo de estos archivos es ](/xml-json.json)  
+
+ imagen  
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDIUkki5H74Bw1pAhmLke_Di1abS03q1JRw&s" width="100" heigth="100">  
 __tabla__
 | Codigo |        |
